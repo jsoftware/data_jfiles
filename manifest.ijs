@@ -10,7 +10,7 @@ A keyed file is a J component file in which data is accessed
 using keywords.
 )
 
-VERSION=: '1.0.0'
+VERSION=: '1.0.1'
 
 RELEASE=: 'j701'
 
