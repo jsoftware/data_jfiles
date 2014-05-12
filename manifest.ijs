@@ -23,3 +23,4 @@ keyfiles.txt
 test/test0.ijs
 test/test1.ijs
 )
+PLATFORMS=: 'linux win darwin android'
