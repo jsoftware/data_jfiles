@@ -10,9 +10,9 @@ A keyed file is a J component file in which data is accessed
 using keywords.
 )
 
-VERSION=: '1.0.7'
+VERSION=: '1.0.8'
 
-RELEASE=: 'j802 j803 j804 j805 j806'
+RELEASE=: 'j802 j803 j804 j805 j806 j807'
 
 FILES=: 0 : 0
 history.txt
