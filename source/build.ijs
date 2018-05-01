@@ -1,6 +1,6 @@
 NB. build
 
-writesourcex_jp_ '~Addons/data/jfiles/source/source';'~Addons/data/jfiles/jfiles.ijs'
+writesourcex_jp_ '~Addons/data/jfiles/source';'~Addons/data/jfiles/jfiles.ijs'
 
 (jpath '~addons/data/jfiles/jfiles.ijs') (fcopynew ::0:) jpath '~Addons/data/jfiles/jfiles.ijs'
 
